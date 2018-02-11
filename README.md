@@ -1,4 +1,4 @@
-# moneysaverapp
+# MoneySaver
 <html>
 <head>
 MoneySaverApp ||  An app for money management
