@@ -2,7 +2,10 @@
 <html>
 <head>
 MoneySaverApp
-An app for money management
+
 </head>
+<body>
+  An app for money management
+  </body>
 
 </html>
