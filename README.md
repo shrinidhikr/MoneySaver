@@ -1,11 +1,9 @@
 # moneysav
 <html>
 <head>
-MoneySaverApp
+MoneySaverApp ||  An app for money management
 
 </head>
-<body>
-  An app for money management
-  </body>
+
 
 </html>
